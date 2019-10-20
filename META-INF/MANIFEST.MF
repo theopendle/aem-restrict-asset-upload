@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Content-Package-Roots: /apps/customization/clientlibs/restrict-asset-u
+ pload,/apps/cq/gui/components/common/wcm/pagethumbnail/pagethumbnail.
+ jsp,/apps/cq/gui/components/authoring/dialog/fileupload/render.jsp
+Content-Package-Type: application
+Content-Package-Id: my_packages:restrict-asset-upload
+

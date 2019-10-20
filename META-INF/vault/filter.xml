@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/cq/gui/components/common/wcm/pagethumbnail/pagethumbnail.jsp"/>
+    <filter root="/apps/cq/gui/components/authoring/dialog/fileupload/render.jsp"/>
+    <filter root="/apps/customization/clientlibs/restrict-asset-upload"/>
+</workspaceFilter>

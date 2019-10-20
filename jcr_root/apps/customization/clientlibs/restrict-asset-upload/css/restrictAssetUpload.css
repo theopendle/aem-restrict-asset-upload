@@ -1,0 +1,19 @@
+/* Hides the Image component file upload button */
+.fdImageUploadGroup coral-fileupload.fdImageFileUpload {
+    display: none;
+}
+
+/* Makes the Image component Browse Assets button border properly rounded */
+.fdpathfield .coral-InputGroup .coral-InputGroup-button > button.coral3-Button.coral3-Button--secondary {
+    border-radius: 0.25rem;
+}
+
+/* Hides the Image Choice component file upload button */
+.fdImageUploadWithText .fdImageUploadWithTextList coral-fileupload {
+    display: none;
+}
+
+/* Removes ugly background overlap in the Image Choice component configuration */
+.fdImageUploadWithText .fdImageUploadWithTextList.coral-Popover {
+   background-color: transparent;
+}
